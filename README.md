@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Ghosh</h1>
 <!-- <h3 align="center">I'm a passionate Tech Enthusiast from India</h3> -->
-<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%2563eb&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Blockchain+Enthusiast;Tech+Enthusiast"/>
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Blockchain+Enthusiast;Tech+Enthusiast"/>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
