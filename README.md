@@ -2,7 +2,7 @@
 <!-- <h3 align="center">I'm a passionate Tech Enthusiast from India</h3> -->
 <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Blockchain+Enthusiast;Tech+Enthusiast"/>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyag02&label=Profile%20views&color=0e75b6&style=flat" alt="diyag02" /> </p>
 
