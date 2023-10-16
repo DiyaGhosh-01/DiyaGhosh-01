@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Ghosh</h1>
 <h3 align="center">I'm a passionate Tech Enthusiast from India</h3>
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Blockchain+Enthusiast;Tech+Enthusiast"/>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
