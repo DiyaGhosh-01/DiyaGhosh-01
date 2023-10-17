@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Diya Ghosh</h1>
 <!-- <h3 align="center">I'm a passionate Tech Enthusiast from India</h3> -->
-<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Blockchain+Enthusiast;Tech+Enthusiast"/>
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=%9E6EFF&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Blockchain+&+Web3+Enthusiast;Tech+Enthusiast;AI/ML+Learner"/>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyag02&label=Profile%20views&color=0e75b6&style=flat" alt="diyag02" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyag02&label=Profile%20views&color=0e75b6&style=flat" alt="diyag02" /> </p> -->
 
-- 🌱 I'm currently working to expand my knowledge about **Blockchain development**
+- 🌱 Working to expand my knowledge about **Blockchain development**
+
+- 🤖 Learning to train machines with **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiyaG02](https://github.com/DiyaG02)
 
 - 💬 Ask me about **Full stack web dev, DSA, Web3**
 
-- 📫 How to reach me **https://linktr.ee/me__Diya__g01**
+- 📫 Reach me via **https://linktr.ee/me__Diya__g01**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
