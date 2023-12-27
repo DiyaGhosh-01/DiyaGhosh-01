@@ -36,11 +36,23 @@
 </picture>
 
 
+<br>
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiyaGhosh-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiyaGhosh-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DiyaGhosh-01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DiyaGhosh-01&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=49% height=100%/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiyaGhosh-01&show_icons=true&count_private=true&theme=react"  width=49% height=100%/>
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaaVijay&theme=react&layout=compact" width="400px" alt="Language stats image"/> -->
+
+
+<!-- <br> -->
+<!-- <h3>Productivity Stats: </h3> -->
+<table>
+  <tr>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiyaGhosh-01&theme=blueberry"  display=block width=100% height=auto  alt="1" >
+
+</table>
+ <hr>
 
 ###
 [![An image of @diyag02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diyag02)](https://holopin.io/@diyag02)
